@@ -24,9 +24,6 @@
   <a href="https://www.linkedin.com/in/vishal1416/" title="LinkedIn">
     <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=LinkedIn&logoColor=white&link=https://linkedin.com/in/vishalsuryawanshi" alt="LinkedIn" />
   </a>
-  <a href="https://api.whatsapp.com/send?phone=+919850962447" title="WhatsApp">
-    <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+919876543210" alt="WhatsApp" />
-  </a>
   <a href="https://x.com/VirajSuryawan13" title="Twitter">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&labelColor=1DA1F2&logo=x&logoColor=white&link=https://x.com/VirajSuryawan13" alt="Twitter" />
   </a>
